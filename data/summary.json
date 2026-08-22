@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-08-21T07:30:14Z",
+  "generated_at": "2026-08-22T06:44:13Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5384056178.0,
-    "rank": 3,
+    "current": 5632000266.0,
+    "rank": 2,
     "change_pct": {
-      "30": 7.63941188858082,
-      "90": -1.233228645090691,
-      "365": -50.97496913667941
+      "30": 13.316070344422478,
+      "90": 2.3910984862860323,
+      "365": -46.04438603517029
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16452155313.5,
+    "current": 16358614105.87,
     "change_pct": {
-      "30": 3.736233066740274,
-      "90": 8.03246344498865,
-      "365": 40.46481364781754
+      "30": -2.9308709656772107,
+      "90": 8.605552806413531,
+      "365": 41.22094022487648
     },
     "ath": 17033111122.0
   },
   "sol": {
-    "price": 90.23,
-    "market_cap": 52611787753,
+    "price": 94.75,
+    "market_cap": 55219965679,
     "change_pct": {
-      "24h": 6.2,
-      "7d": 18.9,
-      "30d": 16.4,
-      "1y": -52.1
+      "24h": 5.6,
+      "7d": 25.0,
+      "30d": 21.8,
+      "1y": -48.3
     }
   },
   "protocols": {
-    "count_on_solana": 436,
+    "count_on_solana": 439,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
+      "Raydium AMM",
       "Jupiter Lend",
       "Bitget",
-      "Raydium AMM",
       "Binance Staked SOL",
       "Jito Liquid Staking",
       "Bybit",
@@ -46,46 +46,46 @@
     ],
     "top_gainers_7d": [
       {
-        "name": "KuCoin",
-        "change_7d": 29.6750467477558
-      },
-      {
-        "name": "DFDV Staked SOL",
-        "change_7d": 22.559608960433224
-      },
-      {
         "name": "Marinade Native",
-        "change_7d": 22.12365301637162
+        "change_7d": 45.28157581129639
+      },
+      {
+        "name": "KuCoin",
+        "change_7d": 33.941471352483035
+      },
+      {
+        "name": "Meteora DLMM",
+        "change_7d": 30.52402498861349
+      },
+      {
+        "name": "PumpSwap",
+        "change_7d": 29.862767764105172
       },
       {
         "name": "Helius Staked SOL",
-        "change_7d": 20.517013352380715
-      },
-      {
-        "name": "Phantom SOL",
-        "change_7d": 20.259019305186783
+        "change_7d": 26.354609649363354
       }
     ],
     "top_losers_7d": [
       {
         "name": "DoubleZero Staked SOL",
-        "change_7d": -43.89601869855074
-      },
-      {
-        "name": "Kamino Liquidity",
-        "change_7d": -1.804696880192509
-      },
-      {
-        "name": "BlackRock BUIDL",
-        "change_7d": -0.5326888768176161
-      },
-      {
-        "name": "Ondo Yield Assets",
-        "change_7d": -0.33208207806822543
+        "change_7d": -41.20199855021289
       },
       {
         "name": "Solstice",
-        "change_7d": 0.03437281568830031
+        "change_7d": -20.081458697889758
+      },
+      {
+        "name": "BlackRock BUIDL",
+        "change_7d": -4.299887415480157
+      },
+      {
+        "name": "Exponent Yield Exchange",
+        "change_7d": -2.0121853707648825
+      },
+      {
+        "name": "Kamino Liquidity",
+        "change_7d": -0.8821588736964685
       }
     ]
   }
