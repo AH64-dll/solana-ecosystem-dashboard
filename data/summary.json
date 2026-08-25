@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-08-24T07:04:18Z",
+  "generated_at": "2026-08-25T06:53:22Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5536079881.0,
-    "rank": 3,
+    "current": 5806275408.0,
+    "rank": 2,
     "change_pct": {
-      "30": 15.537003211565331,
-      "90": 1.4017397112106642,
-      "365": -51.43774919938158
+      "30": 19.911825148721856,
+      "90": 7.400933406981229,
+      "365": -48.766446240713094
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16391367782.03,
+    "current": 16359219022.99,
     "change_pct": {
-      "30": -3.7676225756616026,
-      "90": 7.706436835618345,
-      "365": 40.659003648760205
+      "30": -3.523250073458892,
+      "90": 6.800050040967114,
+      "365": 39.09330819190872
     },
     "ath": 17033111122.0
   },
   "sol": {
-    "price": 94.67,
-    "market_cap": 55211472060,
+    "price": 100.9,
+    "market_cap": 58890022408,
     "change_pct": {
-      "24h": 2.70915,
-      "7d": 25.5,
-      "30d": 27.9,
-      "1y": -54.7
+      "24h": 6.82364,
+      "7d": 34.6,
+      "30d": 36.0,
+      "1y": -50.8
     }
   },
   "protocols": {
-    "count_on_solana": 439,
+    "count_on_solana": 441,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
-      "Jupiter Lend",
-      "Bitget",
       "Raydium AMM",
+      "Jupiter Lend",
       "Binance Staked SOL",
+      "Bitget",
       "Jito Liquid Staking",
       "Bybit",
       "OKX"
@@ -47,45 +47,45 @@
     "top_gainers_7d": [
       {
         "name": "Marinade Native",
-        "change_7d": 57.15062600490896
+        "change_7d": 79.041524359985
       },
       {
-        "name": "KuCoin",
-        "change_7d": 28.81035140469629
+        "name": "DFDV Staked SOL",
+        "change_7d": 50.34439982313097
       },
       {
         "name": "Phantom SOL",
-        "change_7d": 26.87586303776
-      },
-      {
-        "name": "PumpSwap",
-        "change_7d": 26.501922130845884
+        "change_7d": 37.6491427136618
       },
       {
         "name": "BlazeStake",
-        "change_7d": 26.094726469007924
+        "change_7d": 35.88793513085557
+      },
+      {
+        "name": "PumpSwap",
+        "change_7d": 35.79152831415166
       }
     ],
     "top_losers_7d": [
       {
         "name": "DoubleZero Staked SOL",
-        "change_7d": -40.78188738817183
+        "change_7d": -36.01616009503999
       },
       {
         "name": "Solstice",
-        "change_7d": -20.095709661916445
+        "change_7d": -20.391597839624808
       },
       {
         "name": "BlackRock BUIDL",
-        "change_7d": -4.299887415480157
+        "change_7d": -2.8562113525837987
       },
       {
         "name": "Exponent Yield Exchange",
-        "change_7d": -2.8123028038265687
+        "change_7d": -1.7110893511303829
       },
       {
-        "name": "Kamino Liquidity",
-        "change_7d": -1.3915780576316052
+        "name": "Ondo Yield Assets",
+        "change_7d": -0.004935073665635059
       }
     ]
   }
