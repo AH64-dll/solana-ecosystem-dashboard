@@ -1,91 +1,91 @@
 {
-  "generated_at": "2026-08-28T18:21:02Z",
+  "generated_at": "2026-08-29T12:29:33Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5852826759.0,
+    "current": 5841714540.0,
     "rank": 2,
     "change_pct": {
-      "30": 22.096976685422913,
-      "90": 9.11339818502601,
-      "365": -48.310051783282915
+      "30": 21.770306403597314,
+      "90": 7.935729719308779,
+      "365": -50.419327239423495
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16314797736.76,
+    "current": 16281692623.06,
     "change_pct": {
-      "30": 0.5394168954222462,
-      "90": 7.373304469571096,
-      "365": 36.088513731638784
+      "30": -0.05377296885486722,
+      "90": 7.327168352792138,
+      "365": 34.7096302088582
     },
     "ath": 17033111122.0
   },
   "sol": {
-    "price": 103.77,
-    "market_cap": 60679192081,
+    "price": 103.46,
+    "market_cap": 60458052914,
     "change_pct": {
-      "24h": -3.20717,
-      "7d": 14.4,
-      "30d": 43.1,
+      "24h": -1.53986,
+      "7d": 11.5,
+      "30d": 40.3,
       "1y": -50.1
     }
   },
   "protocols": {
-    "count_on_solana": 445,
+    "count_on_solana": 448,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
-      "Binance Staked SOL",
       "Jupiter Lend",
+      "Binance Staked SOL",
       "Jito Liquid Staking",
-      "Bybit",
       "Bitget",
+      "Bybit",
       "BlackRock BUIDL"
     ],
     "top_gainers_7d": [
       {
-        "name": "Marinade Native",
-        "change_7d": 54.20008452169944
+        "name": "DFDV Staked SOL",
+        "change_7d": 47.36044476103348
       },
       {
-        "name": "DFDV Staked SOL",
-        "change_7d": 52.885659614875095
+        "name": "Marinade Native",
+        "change_7d": 34.2450892191863
       },
       {
         "name": "Sanctum Validator LSTs",
-        "change_7d": 17.676144446224143
+        "change_7d": 13.535536561118448
       },
       {
         "name": "Binance Staked SOL",
-        "change_7d": 17.66227467337012
+        "change_7d": 13.287166206888273
       },
       {
-        "name": "Jito Liquid Staking",
-        "change_7d": 15.431707015399951
+        "name": "Bybit Staked SOL",
+        "change_7d": 11.497841005281089
       }
     ],
     "top_losers_7d": [
       {
         "name": "Solstice",
-        "change_7d": -38.18411584882624
+        "change_7d": -38.20157728737846
       },
       {
-        "name": "Loopscale",
-        "change_7d": -5.111465015033687
+        "name": "Meteora DLMM",
+        "change_7d": -4.933404736716568
       },
       {
         "name": "Kamino Liquidity",
-        "change_7d": -2.8709080399837745
+        "change_7d": -4.895143660133201
       },
       {
         "name": "CCIP",
-        "change_7d": -2.4292767099137365
+        "change_7d": -3.6698351451925504
       },
       {
-        "name": "Backpack",
-        "change_7d": -0.9054483326592759
+        "name": "Loopscale",
+        "change_7d": -2.9813532071367774
       }
     ]
   }
