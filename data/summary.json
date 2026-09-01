@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-31T13:05:46Z",
+  "generated_at": "2026-09-01T11:20:31Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5830367704.0,
+    "current": 5803792867.0,
     "rank": 2,
     "change_pct": {
-      "30": 22.70800003480562,
-      "90": 10.0128860835284,
-      "365": -48.97520254296544
+      "30": 22.981565270407085,
+      "90": 15.334299819976408,
+      "365": -48.408489646717726
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16058759917.62,
+    "current": 16068649695.8,
     "change_pct": {
-      "30": -1.4315142137045116,
-      "90": 4.526530988715062,
-      "365": 33.29505786661367
+      "30": -1.0123031160966993,
+      "90": 1.174598152872744,
+      "365": 26.055573255208664
     },
     "ath": 17033111122.0
   },
   "sol": {
-    "price": 102.85,
-    "market_cap": 60221659409,
+    "price": 102.26,
+    "market_cap": 59840511397,
     "change_pct": {
-      "24h": -3.02692,
-      "7d": 7.3,
-      "30d": 41.0,
-      "1y": -49.6
+      "24h": -1.74954,
+      "7d": 2.6,
+      "30d": 39.6,
+      "1y": -49.1
     }
   },
   "protocols": {
-    "count_on_solana": 448,
+    "count_on_solana": 449,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
@@ -47,45 +47,45 @@
     "top_gainers_7d": [
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 45.460459289761076
+        "change_7d": 19.374641251073115
+      },
+      {
+        "name": "Huma Finance V2",
+        "change_7d": 7.21653406673515
       },
       {
         "name": "Marinade Native",
-        "change_7d": 24.15231419942225
+        "change_7d": 6.121169487735514
       },
       {
-        "name": "Sanctum Validator LSTs",
-        "change_7d": 11.993836197626536
+        "name": "BingX",
+        "change_7d": 5.841274993837956
       },
       {
-        "name": "Binance Staked SOL",
-        "change_7d": 11.500588995558658
-      },
-      {
-        "name": "Bybit Staked SOL",
-        "change_7d": 10.896383288301422
+        "name": "Binance CEX",
+        "change_7d": 5.498380433344252
       }
     ],
     "top_losers_7d": [
       {
         "name": "Solstice",
-        "change_7d": -38.20429120363315
+        "change_7d": -37.99199018313099
       },
       {
         "name": "Kamino Liquidity",
-        "change_7d": -5.0236552558442895
+        "change_7d": -7.523830250758039
+      },
+      {
+        "name": "JPool",
+        "change_7d": -6.452836757408932
       },
       {
         "name": "CCIP",
-        "change_7d": -3.885160757346796
+        "change_7d": -4.475943940874842
       },
       {
         "name": "Exponent Yield Exchange",
-        "change_7d": -3.4460156552968897
-      },
-      {
-        "name": "Loopscale",
-        "change_7d": -2.3191479227064917
+        "change_7d": -4.227700646768739
       }
     ]
   }
