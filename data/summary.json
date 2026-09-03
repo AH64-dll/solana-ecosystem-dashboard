@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-02T10:54:42Z",
+  "generated_at": "2026-09-03T10:53:44Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5698118141.0,
+    "current": 5764406638.0,
     "rank": 2,
     "change_pct": {
-      "30": 20.15583338952456,
-      "90": 13.93710683727581,
-      "365": -48.84245602298998
+      "30": 20.979556853153294,
+      "90": 16.56162957142473,
+      "365": -50.698622756382925
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 15783623259.18,
+    "current": 16032977497.52,
     "change_pct": {
-      "30": -1.3819986527673438,
-      "90": 2.9703610851737015,
-      "365": 25.205106424721464
+      "30": -0.9472403584110584,
+      "90": 6.965768222472925,
+      "365": 29.594751044164276
     },
     "ath": 16866867504.0
   },
   "sol": {
-    "price": 97.68,
-    "market_cap": 57159723517,
+    "price": 99.99,
+    "market_cap": 58505900680,
     "change_pct": {
-      "24h": -4.44414,
-      "7d": 1.8,
-      "30d": 36.3,
-      "1y": -51.5
+      "24h": 2.30434,
+      "7d": -4.2,
+      "30d": 36.7,
+      "1y": -52.2
     }
   },
   "protocols": {
-    "count_on_solana": 450,
+    "count_on_solana": 451,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
@@ -41,51 +41,51 @@
       "Binance Staked SOL",
       "Jito Liquid Staking",
       "Bitget",
-      "Bybit",
-      "BlackRock BUIDL"
+      "BlackRock BUIDL",
+      "Bybit"
     ],
     "top_gainers_7d": [
       {
-        "name": "DFDV Staked SOL",
-        "change_7d": 10.392907196789608
-      },
-      {
         "name": "Huma Finance V2",
-        "change_7d": 8.866182550016703
+        "change_7d": 9.452325356015876
       },
       {
         "name": "Kamino Lend",
-        "change_7d": 4.217108441883724
+        "change_7d": 5.244332137133682
       },
       {
-        "name": "BingX",
-        "change_7d": 4.022535249421651
+        "name": "DFDV Staked SOL",
+        "change_7d": 4.620144649585583
       },
       {
         "name": "OnRe",
-        "change_7d": 3.820977035530504
+        "change_7d": 4.048894486299218
+      },
+      {
+        "name": "BingX",
+        "change_7d": 2.5314472202635443
       }
     ],
     "top_losers_7d": [
       {
         "name": "Solstice",
-        "change_7d": -17.552307657170786
+        "change_7d": -17.545118738683158
       },
       {
         "name": "Kamino Liquidity",
-        "change_7d": -7.9730175713091995
-      },
-      {
-        "name": "Binance CEX",
-        "change_7d": -6.343796492212192
+        "change_7d": -13.930921660881282
       },
       {
         "name": "JPool",
-        "change_7d": -4.692901229127386
+        "change_7d": -10.016883781159933
       },
       {
-        "name": "Exponent Yield Exchange",
-        "change_7d": -3.7892354262192782
+        "name": "Bybit",
+        "change_7d": -9.8885915280773
+      },
+      {
+        "name": "Binance CEX",
+        "change_7d": -6.704572494688932
       }
     ]
   }
