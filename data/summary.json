@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-04T10:53:48Z",
+  "generated_at": "2026-09-05T10:13:01Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5914115672.0,
+    "current": 5862597150.0,
     "rank": 2,
     "change_pct": {
-      "30": 23.075797477745926,
-      "90": 25.141548017862807,
-      "365": -49.18938575516121
+      "30": 21.999394700747345,
+      "90": 24.371009769319564,
+      "365": -48.47084653810173
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16577500222.02,
+    "current": 16538978398.14,
     "change_pct": {
-      "30": 1.5146043867142822,
-      "90": 9.422223615747843,
-      "365": 36.1254959426604
+      "30": 3.4803613221544287,
+      "90": 8.186354230809453,
+      "365": 36.279022062012764
     },
     "ath": 16866867504.0
   },
   "sol": {
-    "price": 103.92,
-    "market_cap": 60832598883,
+    "price": 102.5,
+    "market_cap": 59989730837,
     "change_pct": {
-      "24h": 3.72498,
-      "7d": -1.8,
-      "30d": 40.7,
-      "1y": -49.8
+      "24h": -1.27192,
+      "7d": -0.9,
+      "30d": 38.7,
+      "1y": -50.4
     }
   },
   "protocols": {
@@ -39,53 +39,53 @@
       "Raydium AMM",
       "Jupiter Lend",
       "Binance Staked SOL",
-      "Jito Liquid Staking",
       "Bitget",
+      "Jito Liquid Staking",
       "BlackRock BUIDL",
       "Bybit"
     ],
     "top_gainers_7d": [
       {
+        "name": "Bitstamp",
+        "change_7d": 226.7177024913724
+      },
+      {
+        "name": "RockawayX",
+        "change_7d": 44.29848996538212
+      },
+      {
         "name": "Huma Finance V2",
-        "change_7d": 10.873994507875125
+        "change_7d": 18.270893602003795
+      },
+      {
+        "name": "Portal",
+        "change_7d": 9.50845232877468
       },
       {
         "name": "Kamino Lend",
-        "change_7d": 6.867031681880718
-      },
-      {
-        "name": "xStocks",
-        "change_7d": 4.728558462357341
-      },
-      {
-        "name": "OnRe",
-        "change_7d": 4.726721728029332
-      },
-      {
-        "name": "Gate",
-        "change_7d": 2.443590210796202
+        "change_7d": 6.058550866430437
       }
     ],
     "top_losers_7d": [
       {
+        "name": "Bybit",
+        "change_7d": -8.661062137327804
+      },
+      {
+        "name": "Meteora DLMM",
+        "change_7d": -6.796354385296496
+      },
+      {
         "name": "Solstice",
-        "change_7d": -21.46007928214165
+        "change_7d": -4.79265675730224
       },
       {
-        "name": "Kamino Liquidity",
-        "change_7d": -12.206426264975946
+        "name": "Loopscale",
+        "change_7d": -4.397862307452826
       },
       {
-        "name": "JPool",
-        "change_7d": -8.93357669755163
-      },
-      {
-        "name": "Orca DEX",
-        "change_7d": -6.312409766480059
-      },
-      {
-        "name": "PumpSwap",
-        "change_7d": -5.290472510530861
+        "name": "Marinade Native",
+        "change_7d": -4.282272892144221
       }
     ]
   }
