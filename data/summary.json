@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-10T10:55:03Z",
+  "generated_at": "2026-09-11T10:52:28Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5838790460.0,
+    "current": 5804178775.0,
     "rank": 2,
     "change_pct": {
-      "30": 20.448384511149158,
-      "90": 26.842431361928508,
-      "365": -52.12091959218708
+      "30": 19.063291631883473,
+      "90": 23.16347297685433,
+      "365": -53.0328619696028
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16510849506.09,
+    "current": 16291159591.26,
     "change_pct": {
-      "30": 2.6270876753634242,
-      "90": 6.3110009707755435,
-      "365": 34.753600603955235
+      "30": 1.4383242761655686,
+      "90": 6.261956872081067,
+      "365": 34.11203666261926
     },
     "ath": 16866867504.0
   },
   "sol": {
-    "price": 101.11,
-    "market_cap": 59289056949,
+    "price": 99.26,
+    "market_cap": 58217838312,
     "change_pct": {
-      "24h": -2.44688,
-      "7d": 0.4,
-      "30d": 33.2,
-      "1y": -54.2
+      "24h": -1.87565,
+      "7d": -4.7,
+      "30d": 30.6,
+      "1y": -55.6
     }
   },
   "protocols": {
-    "count_on_solana": 452,
+    "count_on_solana": 451,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
@@ -47,45 +47,45 @@
     "top_gainers_7d": [
       {
         "name": "Bitstamp",
-        "change_7d": 218.92742234690456
+        "change_7d": 212.15562493374563
       },
       {
         "name": "RockawayX",
-        "change_7d": 25.265295973559134
+        "change_7d": 19.490583335851724
       },
       {
         "name": "Huma Finance V2",
-        "change_7d": 14.585910982580756
+        "change_7d": 11.47617039574915
       },
       {
-        "name": "Bybit",
-        "change_7d": 7.999756707017099
+        "name": "OnRe",
+        "change_7d": 4.265320762904622
       },
       {
-        "name": "Backpack",
-        "change_7d": 7.970888196407657
+        "name": "Orca DEX",
+        "change_7d": 3.132126734235044
       }
     ],
     "top_losers_7d": [
       {
-        "name": "Meteora DLMM",
-        "change_7d": -6.74262096649953
-      },
-      {
-        "name": "Sentora Curator",
-        "change_7d": -6.198051533963351
-      },
-      {
-        "name": "Solstice",
-        "change_7d": -5.6619617772688144
-      },
-      {
         "name": "Loopscale",
-        "change_7d": -4.015068413431962
+        "change_7d": -12.077181384405364
       },
       {
-        "name": "Bitget",
-        "change_7d": -3.9471190267310305
+        "name": "BingX",
+        "change_7d": -11.39416738371763
+      },
+      {
+        "name": "Exponent Yield Exchange",
+        "change_7d": -11.362676894201826
+      },
+      {
+        "name": "Meteora DLMM",
+        "change_7d": -10.858832314376414
+      },
+      {
+        "name": "Marinade Native",
+        "change_7d": -9.594057610491475
       }
     ]
   }
