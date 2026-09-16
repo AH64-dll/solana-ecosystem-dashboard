@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-15T11:22:03Z",
+  "generated_at": "2026-09-16T11:06:45Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5845788254.0,
+    "current": 5721521417.0,
     "rank": 2,
     "change_pct": {
-      "30": 21.272027922910457,
-      "90": 18.37093810824846,
-      "365": -55.152196523400356
+      "30": 19.482772401949187,
+      "90": 18.638511746003406,
+      "365": -55.20331139935164
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16325871499.33,
+    "current": 15896672870.44,
     "change_pct": {
-      "30": 3.5891320247807648,
-      "90": 8.290734402879336,
-      "365": 31.90582918309569
+      "30": 0.8287269040100798,
+      "90": 5.426304065091835,
+      "365": 28.07163777992937
     },
     "ath": 16866867504.0
   },
   "sol": {
-    "price": 100.8,
-    "market_cap": 59185714810,
+    "price": 97.24,
+    "market_cap": 57098636741,
     "change_pct": {
-      "24h": -0.86404,
-      "7d": -2.6,
-      "30d": 34.1,
-      "1y": -57.1
+      "24h": -3.60276,
+      "7d": -6.1,
+      "30d": 29.0,
+      "1y": -58.7
     }
   },
   "protocols": {
-    "count_on_solana": 454,
+    "count_on_solana": 446,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
@@ -41,51 +41,51 @@
       "Bitget",
       "Binance Staked SOL",
       "Jito Liquid Staking",
-      "BlackRock BUIDL",
-      "Bybit"
+      "Bybit",
+      "MEXC"
     ],
     "top_gainers_7d": [
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 11.69157280434095
+        "change_7d": 11.500256038221451
       },
       {
         "name": "Huma Finance V2",
-        "change_7d": 6.74162831642451
+        "change_7d": 9.286486469154738
+      },
+      {
+        "name": "KuCoin",
+        "change_7d": 3.318893874532037
       },
       {
         "name": "RockawayX",
-        "change_7d": 1.7485913916079454
-      },
-      {
-        "name": "Kamino Lend",
-        "change_7d": 1.3257044744274395
+        "change_7d": 3.0154914810846805
       },
       {
         "name": "Sentora Curator",
-        "change_7d": 1.0805486271977145
+        "change_7d": 2.7581450722570082
       }
     ],
     "top_losers_7d": [
       {
         "name": "Loopscale",
-        "change_7d": -11.745075038725233
+        "change_7d": -11.648601014339562
       },
       {
         "name": "Meteora DLMM",
-        "change_7d": -8.238926681049293
+        "change_7d": -9.828784789142716
       },
       {
-        "name": "BingX",
-        "change_7d": -6.783217237830044
+        "name": "Marinade Native",
+        "change_7d": -9.145903159843442
       },
       {
-        "name": "Bitget",
-        "change_7d": -5.934981611459605
+        "name": "Phantom SOL",
+        "change_7d": -8.788697975915966
       },
       {
-        "name": "Exponent Yield Exchange",
-        "change_7d": -5.587022463823473
+        "name": "Bitstamp",
+        "change_7d": -8.30868945219224
       }
     ]
   }
