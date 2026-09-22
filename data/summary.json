@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-21T12:21:10Z",
+  "generated_at": "2026-09-22T11:12:32Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 6400111332.0,
+    "current": 6456812229.0,
     "rank": 2,
     "change_pct": {
-      "30": 15.020445879177819,
-      "90": 31.80412525290998,
-      "365": -48.79847776707907
+      "30": 15.919852025723827,
+      "90": 34.409101872209455,
+      "365": -47.64496320236273
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 15842876245.63,
+    "current": 17108566383.69,
     "change_pct": {
-      "30": -1.7439007060472564,
-      "90": 2.1489658954413327,
-      "365": 27.467667827380744
+      "30": 5.987519984152467,
+      "90": 10.205305198327299,
+      "365": 33.83535068696866
     },
-    "ath": 16866867504.0
+    "ath": 17108566383.69
   },
   "sol": {
-    "price": 116.82,
-    "market_cap": 68644257229,
+    "price": 116.52,
+    "market_cap": 68460440949,
     "change_pct": {
-      "24h": 7.85064,
-      "7d": 14.5471,
-      "30d": 25.5201,
-      "1y": -51.1603
+      "24h": 0.2157,
+      "7d": 15.9146,
+      "30d": 25.2358,
+      "1y": -46.9934
     }
   },
   "protocols": {
@@ -37,8 +37,8 @@
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
-      "Binance Staked SOL",
       "Jito Liquid Staking",
+      "Binance Staked SOL",
       "Jupiter Lend",
       "Bitget",
       "Bybit",
@@ -47,45 +47,45 @@
     "top_gainers_7d": [
       {
         "name": "Unit",
-        "change_7d": 51.33824471678099
+        "change_7d": 49.58614816250767
       },
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 37.324610418930405
+        "change_7d": 23.04397661736192
       },
       {
         "name": "Backpack",
-        "change_7d": 23.20539973708624
+        "change_7d": 22.973977873258903
       },
       {
         "name": "Bitget",
-        "change_7d": 19.315288499291157
+        "change_7d": 22.489236099920333
       },
       {
         "name": "Sanctum Validator LSTs",
-        "change_7d": 18.894580585839975
+        "change_7d": 20.417443536520835
       }
     ],
     "top_losers_7d": [
       {
-        "name": "Exponent Yield Exchange",
-        "change_7d": -33.49725564835471
+        "name": "Solstice",
+        "change_7d": -6.810591732103916
       },
       {
         "name": "Loopscale",
-        "change_7d": -3.5743800975120905
+        "change_7d": -1.3507835332150506
       },
       {
-        "name": "Solstice",
-        "change_7d": -1.0985454489718052
+        "name": "OnRe",
+        "change_7d": 0.905447551792065
       },
       {
         "name": "Kamino Liquidity",
-        "change_7d": 1.8237847012688206
+        "change_7d": 1.0662087864433687
       },
       {
-        "name": "CCIP",
-        "change_7d": 2.1368003623901473
+        "name": "RockawayX",
+        "change_7d": 2.571290276373233
       }
     ]
   }
