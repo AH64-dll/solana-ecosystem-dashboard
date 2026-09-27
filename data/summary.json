@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-26T11:02:19Z",
+  "generated_at": "2026-09-27T11:41:16Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 6582314435.0,
+    "current": 6722311567.0,
     "rank": 2,
     "change_pct": {
-      "30": 13.752496686030222,
-      "90": 38.09595006832656,
-      "365": -39.050726193453414
+      "30": 11.553572931736175,
+      "90": 39.18597464941173,
+      "365": -39.657483893707536
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16930827026.92,
+    "current": 16743666162.79,
     "change_pct": {
-      "30": 5.268839422045969,
-      "90": 10.480295510678532,
-      "365": 26.71621789066736
+      "30": 3.4859015749270563,
+      "90": 9.323306582770172,
+      "365": 22.04406427080144
     },
-    "ath": 17628322481.0
+    "ath": 17447745282.0
   },
   "sol": {
-    "price": 120.57,
-    "market_cap": 70870418337,
+    "price": 123.71,
+    "market_cap": 72701320401,
     "change_pct": {
-      "24h": 1.06367,
-      "7d": 7.8439,
-      "30d": 15.548,
-      "1y": -38.0322
+      "24h": 2.01175,
+      "7d": 14.499,
+      "30d": 17.0093,
+      "1y": -38.4153
     }
   },
   "protocols": {
@@ -38,54 +38,54 @@
       "Kamino Lend",
       "Raydium AMM",
       "Jito Liquid Staking",
-      "Bitget",
       "Binance Staked SOL",
+      "Bitget",
       "Jupiter Lend",
       "Bybit",
       "OKX"
     ],
     "top_gainers_7d": [
       {
-        "name": "Backpack",
-        "change_7d": 30.971107778191595
+        "name": "Unit",
+        "change_7d": 35.889589211178475
       },
       {
-        "name": "Unit",
-        "change_7d": 28.43544727193955
+        "name": "Backpack",
+        "change_7d": 35.79959019234292
       },
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 21.218282100066006
-      },
-      {
-        "name": "Loopscale",
-        "change_7d": 12.427748146934931
+        "change_7d": 29.920985816762254
       },
       {
         "name": "Sanctum Validator LSTs",
-        "change_7d": 9.241850345018094
+        "change_7d": 17.425025769381335
+      },
+      {
+        "name": "Bybit Staked SOL",
+        "change_7d": 17.035154580940286
       }
     ],
     "top_losers_7d": [
       {
         "name": "Bitstamp",
-        "change_7d": -21.10870958666476
+        "change_7d": -19.4436487327294
       },
       {
         "name": "Solstice",
-        "change_7d": -7.0077011958554465
-      },
-      {
-        "name": "Marinade Select",
-        "change_7d": -3.4742126614906113
+        "change_7d": -7.015986933770705
       },
       {
         "name": "OnRe",
-        "change_7d": -2.4645622196190544
+        "change_7d": -2.478742993746536
       },
       {
-        "name": "Meteora DLMM",
-        "change_7d": 0.2558523696056767
+        "name": "Bitget",
+        "change_7d": -1.252588783121766
+      },
+      {
+        "name": "KuCoin",
+        "change_7d": -0.13007666833885878
       }
     ]
   }
