@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-27T11:41:16Z",
+  "generated_at": "2026-09-28T13:17:41Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 6722311567.0,
+    "current": 6512081707.0,
     "rank": 2,
     "change_pct": {
-      "30": 11.553572931736175,
-      "90": 39.18597464941173,
-      "365": -39.657483893707536
+      "30": 10.703092889618356,
+      "90": 32.41849978258424,
+      "365": -41.372691225341654
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16743666162.79,
+    "current": 16662611834.95,
     "change_pct": {
-      "30": 3.4859015749270563,
-      "90": 9.323306582770172,
-      "365": 22.04406427080144
+      "30": 3.5968446900875075,
+      "90": 8.515527320816828,
+      "365": 21.759802852360576
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 123.71,
-    "market_cap": 72701320401,
+    "price": 119.59,
+    "market_cap": 70292878081,
     "change_pct": {
-      "24h": 2.01175,
-      "7d": 14.499,
-      "30d": 17.0093,
-      "1y": -38.4153
+      "24h": -2.4309,
+      "7d": 2.8454,
+      "30d": 15.9723,
+      "1y": -39.8937
     }
   },
   "protocols": {
@@ -37,55 +37,55 @@
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
+      "Bitget",
       "Jito Liquid Staking",
       "Binance Staked SOL",
-      "Bitget",
       "Jupiter Lend",
       "Bybit",
       "OKX"
     ],
     "top_gainers_7d": [
       {
-        "name": "Unit",
-        "change_7d": 35.889589211178475
-      },
-      {
         "name": "Backpack",
-        "change_7d": 35.79959019234292
+        "change_7d": 17.70916614195511
       },
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 29.920985816762254
+        "change_7d": 16.047918135189747
       },
       {
-        "name": "Sanctum Validator LSTs",
-        "change_7d": 17.425025769381335
+        "name": "Loopscale",
+        "change_7d": 11.017786392583176
       },
       {
-        "name": "Bybit Staked SOL",
-        "change_7d": 17.035154580940286
+        "name": "PumpSwap",
+        "change_7d": 6.233756074318748
+      },
+      {
+        "name": "Orca DEX",
+        "change_7d": 5.7287255958097205
       }
     ],
     "top_losers_7d": [
       {
         "name": "Bitstamp",
-        "change_7d": -19.4436487327294
-      },
-      {
-        "name": "Solstice",
-        "change_7d": -7.015986933770705
-      },
-      {
-        "name": "OnRe",
-        "change_7d": -2.478742993746536
+        "change_7d": -24.606341166239886
       },
       {
         "name": "Bitget",
-        "change_7d": -1.252588783121766
+        "change_7d": -11.304429475007666
       },
       {
-        "name": "KuCoin",
-        "change_7d": -0.13007666833885878
+        "name": "Marinade Select",
+        "change_7d": -8.424425746261576
+      },
+      {
+        "name": "Solstice",
+        "change_7d": -7.456551024747625
+      },
+      {
+        "name": "OnRe",
+        "change_7d": -3.2374666070985683
       }
     ]
   }
