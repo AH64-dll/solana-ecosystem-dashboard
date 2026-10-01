@@ -1,91 +1,91 @@
 {
-  "generated_at": "2026-09-30T12:09:47Z",
+  "generated_at": "2026-10-01T12:43:32Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 6521341892.0,
+    "current": 6520794317.0,
     "rank": 2,
     "change_pct": {
-      "30": 12.4288892080879,
-      "90": 32.27997123835303,
-      "365": -43.20837963482983
+      "30": 8.728610264301228,
+      "90": 28.860723915353482,
+      "365": -43.49780321090528
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16419481853.02,
+    "current": 16338905586.6,
     "change_pct": {
-      "30": 2.819459052199235,
-      "90": 6.905960708631449,
-      "365": 16.290900751106214
+      "30": 2.9808965433515104,
+      "90": 2.92338171354963,
+      "365": 14.767900867591097
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 119.5,
-    "market_cap": 70257200110,
+    "price": 117.91,
+    "market_cap": 69320896505,
     "change_pct": {
-      "24h": -0.49373,
-      "7d": 1.4913,
-      "30d": 15.1613,
-      "1y": -42.2639
+      "24h": -2.91306,
+      "7d": 4.0806,
+      "30d": 15.3014,
+      "1y": -45.5429
     }
   },
   "protocols": {
-    "count_on_solana": 447,
+    "count_on_solana": 450,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
       "Jito Liquid Staking",
-      "Binance Staked SOL",
       "Jupiter Lend",
+      "Binance Staked SOL",
       "Bitget",
       "Bybit",
       "OKX"
     ],
     "top_gainers_7d": [
       {
-        "name": "Loopscale",
-        "change_7d": 19.89905759399224
+        "name": "Backpack",
+        "change_7d": 24.720732978898212
+      },
+      {
+        "name": "Orca DEX",
+        "change_7d": 7.192053660014722
       },
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 17.065734748631513
+        "change_7d": 5.741985365885242
       },
       {
-        "name": "Backpack",
-        "change_7d": 10.962880219331112
+        "name": "Jupiter Lend",
+        "change_7d": 5.3688776274879615
       },
       {
-        "name": "Marinade Select",
-        "change_7d": 4.4594161726909505
-      },
-      {
-        "name": "Sanctum Validator LSTs",
-        "change_7d": 4.039413841960581
+        "name": "Bybit Staked SOL",
+        "change_7d": 4.9453103936481995
       }
     ],
     "top_losers_7d": [
       {
         "name": "Bitstamp",
-        "change_7d": -26.17095686414595
+        "change_7d": -23.29722654173534
       },
       {
         "name": "Bitget",
-        "change_7d": -17.87993737925241
+        "change_7d": -14.422978436142458
       },
       {
         "name": "Sentora Curator",
-        "change_7d": -13.007744413600435
+        "change_7d": -8.7502407848485
       },
       {
-        "name": "Meteora DLMM",
-        "change_7d": -4.446536174614224
+        "name": "Huma",
+        "change_7d": -4.503415580637963
       },
       {
-        "name": "Gate",
-        "change_7d": -4.144604338613419
+        "name": "OnRe",
+        "change_7d": -3.386954326268892
       }
     ]
   }
