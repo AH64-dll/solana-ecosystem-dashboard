@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-02T12:07:49Z",
+  "generated_at": "2026-10-03T11:18:50Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 6688734356.0,
+    "current": 6641955597.0,
     "rank": 2,
     "change_pct": {
-      "30": 18.16631776008833,
-      "90": 30.17466137660335,
-      "365": -45.128736772395435
+      "30": 16.245707674681135,
+      "90": 29.38210452353181,
+      "365": -47.31141137772031
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16515976679.7,
+    "current": 16889787662.9,
     "change_pct": {
-      "30": 4.629267513746667,
-      "90": 6.66498359964953,
-      "365": 13.720989930829889
+      "30": 4.971268068915447,
+      "90": 9.236799195553486,
+      "365": 12.6892785387045
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 121.74,
-    "market_cap": 71608535497,
+    "price": 119.26,
+    "market_cap": 70140222149,
     "change_pct": {
-      "24h": 3.30198,
-      "7d": 2.2883,
-      "30d": 24.1618,
-      "1y": -45.8914
+      "24h": -2.33532,
+      "7d": -0.3038,
+      "30d": 19.4189,
+      "1y": -48.2349
     }
   },
   "protocols": {
@@ -40,52 +40,52 @@
       "Jupiter Lend",
       "Jito Liquid Staking",
       "Binance Staked SOL",
-      "Bitget",
       "Bybit",
+      "Bitget",
       "OKX"
     ],
     "top_gainers_7d": [
       {
+        "name": "Huma",
+        "change_7d": 11.355687919948494
+      },
+      {
         "name": "Jupiter Lend",
-        "change_7d": 9.788203974145276
+        "change_7d": 10.1156688545273
       },
       {
         "name": "Orca DEX",
-        "change_7d": 7.451196643978747
-      },
-      {
-        "name": "PumpSwap",
-        "change_7d": 6.87822340113506
-      },
-      {
-        "name": "DFDV Staked SOL",
-        "change_7d": 5.2684818006695195
+        "change_7d": 7.126681876066016
       },
       {
         "name": "Bybit Staked SOL",
-        "change_7d": 5.177816382991381
+        "change_7d": 5.160430398250185
+      },
+      {
+        "name": "Bitfinex",
+        "change_7d": 3.8201459470909214
       }
     ],
     "top_losers_7d": [
       {
         "name": "Sentora Curator",
-        "change_7d": -6.9962253166159485
-      },
-      {
-        "name": "Bitstamp",
-        "change_7d": -3.003313550254333
-      },
-      {
-        "name": "Kamino Lend",
-        "change_7d": -2.882597587705064
-      },
-      {
-        "name": "OnRe",
-        "change_7d": -2.6587859454461267
+        "change_7d": -9.719236070193475
       },
       {
         "name": "RockawayX",
-        "change_7d": -2.4594478839043177
+        "change_7d": -5.56462764413412
+      },
+      {
+        "name": "Kamino Lend",
+        "change_7d": -4.938360186696613
+      },
+      {
+        "name": "Marinade Native",
+        "change_7d": -4.899063722756665
+      },
+      {
+        "name": "JPool",
+        "change_7d": -3.0364543444458434
       }
     ]
   }
