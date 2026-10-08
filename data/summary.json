@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-10-07T12:55:08Z",
+  "generated_at": "2026-10-08T13:03:24Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 6506384091.0,
+    "current": 6401934432.0,
     "rank": 2,
     "change_pct": {
-      "30": 8.338104517280257,
-      "90": 31.23813431648471,
-      "365": -49.723250661395326
+      "30": 8.06128152209152,
+      "90": 28.64152270336739,
+      "365": -48.85741778412523
     },
     "ath": 13238348377.0
   },
   "stablecoins": {
-    "current": 16846990390.61,
+    "current": 16537128249.66,
     "change_pct": {
-      "30": 1.0323245789864852,
-      "90": 10.827485704532284,
-      "365": 10.573123472184681
+      "30": -0.55634746230259,
+      "90": 8.913565852187414,
+      "365": 7.182184924060573
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 116.37,
-    "market_cap": 68539780929,
+    "price": 112.42,
+    "market_cap": 66260315544,
     "change_pct": {
-      "24h": -3.38036,
-      "7d": -2.0772,
-      "30d": 11.7109,
-      "1y": -49.2317
+      "24h": -3.48358,
+      "7d": -4.7144,
+      "30d": 9.3408,
+      "1y": -49.1883
     }
   },
   "protocols": {
-    "count_on_solana": 450,
+    "count_on_solana": 451,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
-      "Jito Liquid Staking",
       "Jupiter Lend",
+      "Jito Liquid Staking",
       "Binance Staked SOL",
       "Bitget",
       "Bybit",
@@ -46,46 +46,46 @@
     ],
     "top_gainers_7d": [
       {
-        "name": "Bitget",
-        "change_7d": 13.548970113029128
-      },
-      {
-        "name": "Sentora Curator",
-        "change_7d": 8.407864650597418
-      },
-      {
         "name": "Huma",
-        "change_7d": 8.305120810825812
+        "change_7d": 13.720348689655836
+      },
+      {
+        "name": "Bitget",
+        "change_7d": 11.092748571855452
       },
       {
         "name": "Bybit Staked SOL",
-        "change_7d": 7.359360069043717
+        "change_7d": 7.13326991300238
       },
       {
-        "name": "Orca DEX",
-        "change_7d": 5.147394216335627
+        "name": "CCIP",
+        "change_7d": 4.7529042680427125
+      },
+      {
+        "name": "Sentora Curator",
+        "change_7d": 4.577661047822062
       }
     ],
     "top_losers_7d": [
       {
-        "name": "RockawayX",
-        "change_7d": -5.308926648544059
+        "name": "Backpack",
+        "change_7d": -13.635455782111165
       },
       {
-        "name": "JPool",
-        "change_7d": -3.380864300574771
+        "name": "Drift Staked SOL",
+        "change_7d": -4.148029901265716
       },
       {
-        "name": "Marinade Select",
-        "change_7d": -2.979121375751575
-      },
-      {
-        "name": "Marinade Native",
-        "change_7d": -2.372789054920574
+        "name": "Raydium AMM",
+        "change_7d": -4.001109026900735
       },
       {
         "name": "Marinade Liquid Staking",
-        "change_7d": -2.363437289204512
+        "change_7d": -3.7943456883417355
+      },
+      {
+        "name": "Marinade Native",
+        "change_7d": -3.782471128148728
       }
     ]
   }
