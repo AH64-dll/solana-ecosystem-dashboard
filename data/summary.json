@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-14T11:27:02Z",
+  "generated_at": "2026-10-15T11:03:58Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 6039429410.0,
+    "current": 5904410467.0,
     "rank": 3,
     "change_pct": {
-      "30": 3.9420303211972345,
-      "90": 23.023507017988283,
-      "365": -48.92935360024952
+      "30": 0.18838415082654197,
+      "90": 22.272029599026336,
+      "365": -48.984290600106824
     },
     "ath": 13228788451.0
   },
   "stablecoins": {
-    "current": 16251212647.63,
+    "current": 15986074926.92,
     "change_pct": {
-      "30": 0.884148584996171,
-      "90": 11.574585839923364,
-      "365": 0.26506687503669596
+      "30": -0.9838507802824062,
+      "90": 6.689293884819677,
+      "365": 3.1008622250642026
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 107.01,
-    "market_cap": 63068541448,
+    "price": 102.12,
+    "market_cap": 60210758132,
     "change_pct": {
-      "24h": 0.2954,
-      "7d": -9.0683,
-      "30d": 5.0281,
-      "1y": -45.0494
+      "24h": -4.24644,
+      "7d": -11.1309,
+      "30d": 1.4822,
+      "1y": -50.3324
     }
   },
   "protocols": {
@@ -37,8 +37,8 @@
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
-      "Jito Liquid Staking",
       "Jupiter Lend",
+      "Jito Liquid Staking",
       "Binance Staked SOL",
       "Bitget",
       "Bybit",
@@ -47,45 +47,45 @@
     "top_gainers_7d": [
       {
         "name": "Bitstamp",
-        "change_7d": 29.749237660393533
+        "change_7d": 26.523318457477302
       },
       {
         "name": "Steakhouse Financial",
-        "change_7d": 2.951308097233806
+        "change_7d": 0.5983690168611275
       },
       {
         "name": "CCIP",
-        "change_7d": 2.7555680059608108
+        "change_7d": 0.12303570495322447
       },
       {
-        "name": "Sentora Curator",
-        "change_7d": 0.14174542963310444
+        "name": "Huma",
+        "change_7d": -0.40278825058319967
       },
       {
         "name": "OnRe",
-        "change_7d": -0.11540414798504628
+        "change_7d": -0.4152322324270017
       }
     ],
     "top_losers_7d": [
       {
         "name": "Marinade Select",
-        "change_7d": -26.366735291656923
+        "change_7d": -27.474565534354554
       },
       {
         "name": "Sanctum Infinity",
-        "change_7d": -12.757579797635373
+        "change_7d": -13.341162145332746
+      },
+      {
+        "name": "Meteora DLMM",
+        "change_7d": -12.750826669327239
       },
       {
         "name": "BlazeStake",
-        "change_7d": -12.275058334162665
+        "change_7d": -12.312007615878088
       },
       {
         "name": "Marinade Native",
-        "change_7d": -11.208306690650431
-      },
-      {
-        "name": "Drift Staked SOL",
-        "change_7d": -11.130464513196642
+        "change_7d": -12.107422723420868
       }
     ]
   }
