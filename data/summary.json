@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-10-16T10:59:20Z",
+  "generated_at": "2026-10-17T10:20:57Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5992199321.0,
+    "current": 5942569004.0,
     "rank": 3,
     "change_pct": {
-      "30": 5.135966186048888,
-      "90": 24.6676733411482,
-      "365": -46.88981949152974
+      "30": 3.225765132088248,
+      "90": 22.499576850559134,
+      "365": -45.72418925581451
     },
     "ath": 13228788451.0
   },
   "stablecoins": {
-    "current": 16162012416.57,
+    "current": 15955667577.83,
     "change_pct": {
-      "30": 2.827351417000591,
-      "90": 5.757161531321717,
-      "365": 1.3202823236204644
+      "30": 2.780968413909539,
+      "90": 4.002234542189006,
+      "365": 2.306369938197879
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 106.72,
-    "market_cap": 62897687846,
+    "price": 104.62,
+    "market_cap": 61660740172,
     "change_pct": {
-      "24h": 4.30498,
-      "7d": -3.8978,
-      "30d": 9.5997,
-      "1y": -44.7955
+      "24h": -1.24619,
+      "7d": -4.6183,
+      "30d": 4.5848,
+      "1y": -40.4672
     }
   },
   "protocols": {
     "count_on_solana": 454,
     "top10_names": [
       "Binance CEX",
+      "OKX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
@@ -41,51 +42,50 @@
       "Jupiter Lend",
       "Binance Staked SOL",
       "Bitget",
-      "Bybit",
-      "OKX"
+      "Bybit"
     ],
     "top_gainers_7d": [
       {
-        "name": "Bitstamp",
-        "change_7d": 30.257681943506583
+        "name": "Forward Industries SOL",
+        "change_7d": 22.809029174675317
+      },
+      {
+        "name": "OKX",
+        "change_7d": 9.437903194159887
       },
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 7.288195483069742
-      },
-      {
-        "name": "Forward Industries SOL",
-        "change_7d": 6.023268895255043
+        "change_7d": 6.232133023803669
       },
       {
         "name": "Steakhouse Financial",
-        "change_7d": 3.1041159723855856
+        "change_7d": 5.351704393505457
       },
       {
-        "name": "Bitfinex",
-        "change_7d": 1.3276608470991818
+        "name": "Huma",
+        "change_7d": 1.1891909194892634
       }
     ],
     "top_losers_7d": [
       {
         "name": "Marinade Select",
-        "change_7d": -21.920862386689862
+        "change_7d": -29.111928774347078
       },
       {
         "name": "Meteora DLMM",
-        "change_7d": -7.754262612261272
-      },
-      {
-        "name": "Sanctum Infinity",
-        "change_7d": -6.71928601083529
+        "change_7d": -9.814008308848571
       },
       {
         "name": "BlazeStake",
-        "change_7d": -5.893261708918473
+        "change_7d": -7.3746885570404
       },
       {
         "name": "Backpack",
-        "change_7d": -5.837352911314895
+        "change_7d": -7.201772665420805
+      },
+      {
+        "name": "Sanctum Infinity",
+        "change_7d": -6.612868312142439
       }
     ]
   }
