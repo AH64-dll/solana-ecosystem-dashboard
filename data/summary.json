@@ -1,91 +1,91 @@
 {
-  "generated_at": "2026-10-17T10:20:57Z",
+  "generated_at": "2026-10-18T10:37:22Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5942569004.0,
+    "current": 5893182241.0,
     "rank": 3,
     "change_pct": {
-      "30": 3.225765132088248,
-      "90": 22.499576850559134,
-      "365": -45.72418925581451
+      "30": 0.36500056772935136,
+      "90": 21.413263217342987,
+      "365": -45.60177675308442
     },
     "ath": 13228788451.0
   },
   "stablecoins": {
-    "current": 15955667577.83,
+    "current": 15824169674.37,
     "change_pct": {
-      "30": 2.780968413909539,
-      "90": 4.002234542189006,
-      "365": 2.306369938197879
+      "30": 2.3073318747631406,
+      "90": 2.9875390934503687,
+      "365": 6.179262545906611
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 104.62,
-    "market_cap": 61660740172,
+    "price": 104.14,
+    "market_cap": 61386717530,
     "change_pct": {
-      "24h": -1.24619,
-      "7d": -4.6183,
-      "30d": 4.5848,
-      "1y": -40.4672
+      "24h": -0.6198,
+      "7d": -5.0213,
+      "30d": -2.0685,
+      "1y": -44.1437
     }
   },
   "protocols": {
-    "count_on_solana": 454,
+    "count_on_solana": 456,
     "top10_names": [
       "Binance CEX",
-      "OKX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
-      "Jito Liquid Staking",
       "Jupiter Lend",
+      "Jito Liquid Staking",
       "Binance Staked SOL",
       "Bitget",
-      "Bybit"
+      "Bybit",
+      "OKX"
     ],
     "top_gainers_7d": [
       {
         "name": "Forward Industries SOL",
-        "change_7d": 22.809029174675317
-      },
-      {
-        "name": "OKX",
-        "change_7d": 9.437903194159887
-      },
-      {
-        "name": "DFDV Staked SOL",
-        "change_7d": 6.232133023803669
+        "change_7d": 21.26184844807358
       },
       {
         "name": "Steakhouse Financial",
-        "change_7d": 5.351704393505457
+        "change_7d": 7.462955699491474
+      },
+      {
+        "name": "DFDV Staked SOL",
+        "change_7d": 5.609191791287046
       },
       {
         "name": "Huma",
-        "change_7d": 1.1891909194892634
+        "change_7d": 1.2325944645170495
+      },
+      {
+        "name": "OnRe",
+        "change_7d": 0.3918953624073396
       }
     ],
     "top_losers_7d": [
       {
         "name": "Marinade Select",
-        "change_7d": -29.111928774347078
+        "change_7d": -29.955010731734973
       },
       {
         "name": "Meteora DLMM",
-        "change_7d": -9.814008308848571
+        "change_7d": -12.392713147469081
       },
       {
         "name": "BlazeStake",
-        "change_7d": -7.3746885570404
+        "change_7d": -7.557974929597307
       },
       {
-        "name": "Backpack",
-        "change_7d": -7.201772665420805
+        "name": "The Vault Liquid Staking",
+        "change_7d": -7.53848006877692
       },
       {
-        "name": "Sanctum Infinity",
-        "change_7d": -6.612868312142439
+        "name": "Marinade Native",
+        "change_7d": -6.247802746553603
       }
     ]
   }
