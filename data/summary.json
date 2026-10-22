@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-21T11:24:28Z",
+  "generated_at": "2026-10-22T11:24:20Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5970049265.0,
+    "current": 5875159786.0,
     "rank": 3,
     "change_pct": {
-      "30": -3.404146414703399,
-      "90": 20.533211588283667,
-      "365": -46.419070996994
+      "30": -8.681623947072078,
+      "90": 19.67008341310813,
+      "365": -46.78714987243329
     },
     "ath": 13228788451.0
   },
   "stablecoins": {
-    "current": 15933636512.23,
+    "current": 16084625658.71,
     "change_pct": {
-      "30": 1.7140718960749721,
-      "90": -3.4541567136612903,
-      "365": 6.602230940278932
+      "30": -4.997326398289015,
+      "90": -2.897617977011521,
+      "365": 6.305416839344448
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 106.69,
-    "market_cap": 62880944297,
+    "price": 104.48,
+    "market_cap": 61601374481,
     "change_pct": {
-      "24h": 2.47775,
-      "7d": -0.0536,
-      "30d": -8.0448,
-      "1y": -42.2116
+      "24h": -2.13893,
+      "7d": 1.3706,
+      "30d": -11.0321,
+      "1y": -43.2578
     }
   },
   "protocols": {
@@ -39,53 +39,53 @@
       "Raydium AMM",
       "Binance Staked SOL",
       "Jito Liquid Staking",
-      "Jupiter Lend",
       "Bitget",
+      "Jupiter Lend",
       "Bybit",
       "OKX"
     ],
     "top_gainers_7d": [
       {
         "name": "Forward Industries SOL",
-        "change_7d": 15.95762478805382
-      },
-      {
-        "name": "Loopscale Lending",
-        "change_7d": 10.629455297202469
-      },
-      {
-        "name": "Bitstamp",
-        "change_7d": 5.288798289921232
+        "change_7d": 18.20812441487631
       },
       {
         "name": "DFDV Staked SOL",
-        "change_7d": 4.883108414427539
+        "change_7d": 11.48632886831777
       },
       {
-        "name": "Gate",
-        "change_7d": 2.7639919349928874
+        "name": "Bitget",
+        "change_7d": 11.480290234292895
+      },
+      {
+        "name": "Loopscale Lending",
+        "change_7d": 10.096873592219694
+      },
+      {
+        "name": "Backpack",
+        "change_7d": 7.856478686944371
       }
     ],
     "top_losers_7d": [
       {
-        "name": "Huma",
-        "change_7d": -6.197150661263862
-      },
-      {
-        "name": "Marinade Select",
-        "change_7d": -5.661260214213684
-      },
-      {
         "name": "BingX",
-        "change_7d": -5.396406810505468
+        "change_7d": -8.512023521882043
+      },
+      {
+        "name": "Huma",
+        "change_7d": -7.209283369450802
       },
       {
         "name": "Jupiter Lend",
-        "change_7d": -5.303723387031184
+        "change_7d": -7.0336914871264185
       },
       {
-        "name": "Marinade Native",
-        "change_7d": -3.196615210795642
+        "name": "Marinade Select",
+        "change_7d": -3.2025161533502597
+      },
+      {
+        "name": "Solstice",
+        "change_7d": -2.8990512463390417
       }
     ]
   }
