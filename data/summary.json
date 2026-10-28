@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-27T11:48:34Z",
+  "generated_at": "2026-10-28T12:22:49Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5654583274.0,
-    "rank": 3,
+    "current": 5769677929.0,
+    "rank": 4,
     "change_pct": {
-      "30": -14.260692930138005,
-      "90": 18.39063954178889,
-      "365": -52.36192242216878
+      "30": -12.701006019785478,
+      "90": 20.704837663797022,
+      "365": -51.03937234861444
     },
     "ath": 13228788451.0
   },
   "stablecoins": {
-    "current": 15704085037.63,
+    "current": 15709426803.74,
     "change_pct": {
-      "30": -5.1870813624478345,
-      "90": -1.0774177684974793,
-      "365": 7.970065169397328
+      "30": -4.693922474104899,
+      "90": -1.4394233151658788,
+      "365": 6.4843375973790165
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 100.04,
-    "market_cap": 58994258281,
+    "price": 101.96,
+    "market_cap": 60161025121,
     "change_pct": {
-      "24h": -1.29289,
-      "7d": -3.7814,
-      "30d": -19.63,
-      "1y": -49.9896
+      "24h": 1.80049,
+      "7d": -3.6564,
+      "30d": -13.4216,
+      "1y": -48.7297
     }
   },
   "protocols": {
-    "count_on_solana": 464,
+    "count_on_solana": 465,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
@@ -46,46 +46,46 @@
     ],
     "top_gainers_7d": [
       {
-        "name": "Bitget",
-        "change_7d": 15.072038015979274
-      },
-      {
         "name": "RockawayX",
-        "change_7d": 4.7241761227196974
+        "change_7d": 8.116565558932251
       },
       {
         "name": "Sentora Curator",
-        "change_7d": 4.486876722641696
-      },
-      {
-        "name": "Loopscale Lending",
-        "change_7d": 4.398024023771583
+        "change_7d": 4.84631109488916
       },
       {
         "name": "OnRe",
-        "change_7d": 2.4193616722895968
+        "change_7d": 2.4724092168222285
+      },
+      {
+        "name": "Steakhouse Financial",
+        "change_7d": 1.910771788625425
+      },
+      {
+        "name": "Bybit Staked SOL",
+        "change_7d": 1.6556067969832498
       }
     ],
     "top_losers_7d": [
       {
-        "name": "OKX",
-        "change_7d": -41.4363050326093
+        "name": "Bitfinex",
+        "change_7d": -29.48595089736105
       },
       {
-        "name": "BingX",
-        "change_7d": -13.799302806171198
+        "name": "KuCoin",
+        "change_7d": -17.938073532359667
       },
       {
-        "name": "Backpack",
-        "change_7d": -8.233129548593865
+        "name": "Binance CEX",
+        "change_7d": -16.494805051811568
       },
       {
-        "name": "Marinade Select",
-        "change_7d": -7.6228142354317185
+        "name": "SwissBorg",
+        "change_7d": -16.225746486879913
       },
       {
-        "name": "Save",
-        "change_7d": -6.952562212398888
+        "name": "Gate",
+        "change_7d": -14.511433556404214
       }
     ]
   }
