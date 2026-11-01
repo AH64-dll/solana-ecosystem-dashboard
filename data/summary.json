@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-31T11:54:22Z",
+  "generated_at": "2026-11-01T12:53:08Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5416808687.0,
-    "rank": 5,
+    "current": 5407661492.0,
+    "rank": 4,
     "change_pct": {
-      "30": -15.42010825285037,
-      "90": 15.4821047089445,
-      "365": -52.0469833134236
+      "30": -16.18798737465586,
+      "90": 14.727841563876181,
+      "365": -52.0684904318187
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 15418515208.56,
+    "current": 15429666586.64,
     "change_pct": {
-      "30": -4.588223035075336,
-      "90": -2.9301382513433585,
-      "365": 3.360899173789384
+      "30": -5.5786097155603995,
+      "90": -2.5036984671182823,
+      "365": 5.765487512719127
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 95.79,
-    "market_cap": 56513531934,
+    "price": 94.75,
+    "market_cap": 55917138446,
     "change_pct": {
-      "24h": -0.70758,
-      "7d": -5.7182,
-      "30d": -18.8082,
-      "1y": -48.7728
+      "24h": -1.25648,
+      "7d": -5.354,
+      "30d": -21.8829,
+      "1y": -48.8216
     }
   },
   "protocols": {
@@ -38,54 +38,54 @@
       "Kamino Lend",
       "Raydium AMM",
       "Binance Staked SOL",
-      "Bitget",
       "Jito Liquid Staking",
+      "Bitget",
       "Jupiter Lend",
-      "OKX",
-      "Bybit"
+      "Bybit",
+      "OKX"
     ],
     "top_gainers_7d": [
       {
         "name": "Steakhouse Financial",
-        "change_7d": 6.15444214874276
-      },
-      {
-        "name": "Sentora Curator",
-        "change_7d": 4.901237002634545
+        "change_7d": 5.6343071227775425
       },
       {
         "name": "OnRe",
-        "change_7d": 4.146059243587359
+        "change_7d": 4.1661259936182375
       },
       {
-        "name": "Huma",
-        "change_7d": 1.963365906108038
+        "name": "Sentora Curator",
+        "change_7d": 2.7547728990373628
       },
       {
         "name": "BingX",
-        "change_7d": 1.6870948432489854
+        "change_7d": 1.8303619986152597
+      },
+      {
+        "name": "Solstice",
+        "change_7d": -0.12759120013431868
       }
     ],
     "top_losers_7d": [
       {
         "name": "Bitfinex",
-        "change_7d": -31.113787539065484
+        "change_7d": -30.775011263610878
       },
       {
         "name": "Binance CEX",
-        "change_7d": -21.520001339906344
-      },
-      {
-        "name": "KuCoin",
-        "change_7d": -21.07915692466787
+        "change_7d": -22.605904068757027
       },
       {
         "name": "Gate",
-        "change_7d": -20.39776634943766
+        "change_7d": -19.993180997346713
       },
       {
-        "name": "Bitget",
-        "change_7d": -16.00940090902644
+        "name": "KuCoin",
+        "change_7d": -19.76431084097632
+      },
+      {
+        "name": "SwissBorg",
+        "change_7d": -14.680609158057095
       }
     ]
   }
