@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-11-02T15:06:30Z",
+  "generated_at": "2026-11-03T13:50:58Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5438103400.0,
-    "rank": 4,
+    "current": 5383419717.0,
+    "rank": 3,
     "change_pct": {
-      "30": -16.084823895063554,
-      "90": 14.822941944417723,
-      "365": -51.39686707808045
+      "30": -16.770810705631753,
+      "90": 12.703950354624716,
+      "365": -51.788158097675705
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 15359043656.99,
+    "current": 15289267239.94,
     "change_pct": {
-      "30": -8.083613761038347,
-      "90": -4.051186108047683,
-      "365": 5.215072666390547
+      "30": -8.125655716567552,
+      "90": -5.338249283144844,
+      "365": 5.154430220376931
     },
     "ath": 17447745282.0
   },
   "sol": {
-    "price": 94.16,
-    "market_cap": 55575720825,
+    "price": 93.13,
+    "market_cap": 54971843666,
     "change_pct": {
-      "24h": -0.78383,
-      "7d": -6.5953,
-      "30d": -21.198,
-      "1y": -49.1188
+      "24h": -1.31566,
+      "7d": -6.9435,
+      "30d": -23.2508,
+      "1y": -46.9553
     }
   },
   "protocols": {
-    "count_on_solana": 466,
+    "count_on_solana": 468,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Raydium AMM",
-      "Binance Staked SOL",
       "Jupiter Lend",
+      "Binance Staked SOL",
       "Jito Liquid Staking",
       "Bitget",
       "Bybit",
@@ -47,45 +47,45 @@
     "top_gainers_7d": [
       {
         "name": "Steakhouse Financial",
-        "change_7d": 5.084924330181423
-      },
-      {
-        "name": "OnRe",
-        "change_7d": 3.8287618384150477
+        "change_7d": 5.537011985274006
       },
       {
         "name": "BingX",
-        "change_7d": 2.0977799511606037
+        "change_7d": 2.2441131428535925
       },
       {
-        "name": "Solstice",
-        "change_7d": -0.14645990579987256
+        "name": "OnRe",
+        "change_7d": 2.0779426451382506
+      },
+      {
+        "name": "Forward Industries SOL",
+        "change_7d": 1.4067295398706818
       },
       {
         "name": "Jupiter Lend",
-        "change_7d": -0.5081676759307783
+        "change_7d": 0.3638103936652044
       }
     ],
     "top_losers_7d": [
       {
+        "name": "Bitfinex",
+        "change_7d": -27.779244080397135
+      },
+      {
         "name": "Binance CEX",
-        "change_7d": -25.233333816580426
+        "change_7d": -24.03709143109745
       },
       {
         "name": "KuCoin",
-        "change_7d": -20.984711255540688
-      },
-      {
-        "name": "Gate",
-        "change_7d": -18.94238758048347
+        "change_7d": -20.67315440855826
       },
       {
         "name": "SwissBorg",
-        "change_7d": -16.004444624712306
+        "change_7d": -15.675269956720257
       },
       {
-        "name": "Bitget",
-        "change_7d": -13.86734484671743
+        "name": "Huma",
+        "change_7d": -13.036163803327241
       }
     ]
   }
