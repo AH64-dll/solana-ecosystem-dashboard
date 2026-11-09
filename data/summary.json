@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-08T12:57:51Z",
+  "generated_at": "2026-11-09T15:37:49Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 5191319305.0,
+    "current": 5064751275.0,
     "rank": 3,
     "change_pct": {
-      "30": -15.710268210396954,
-      "90": 7.600203133703641,
-      "365": -48.913327244870594
+      "30": -17.525013114712426,
+      "90": 5.298555709406391,
+      "365": -49.0587998867418
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 14852331266.84,
+    "current": 14983853589.86,
     "change_pct": {
-      "30": -8.1279616368423,
-      "90": -6.609792814183865,
-      "365": 6.478117350808597
+      "30": -7.362074183193622,
+      "90": -5.817408242262288,
+      "365": 8.01261265091834
     },
-    "ath": 16807838661.0
+    "ath": 16807875175.0
   },
   "sol": {
-    "price": 89.49,
-    "market_cap": 52889225984,
+    "price": 87.46,
+    "market_cap": 51720536867,
     "change_pct": {
-      "24h": -0.19922,
-      "7d": -6.0397,
-      "30d": -18.3024,
-      "1y": -44.3085
+      "24h": -2.36079,
+      "7d": -7.4675,
+      "30d": -20.6165,
+      "1y": -45.447
     }
   },
   "protocols": {
@@ -42,50 +42,50 @@
       "Jito Liquid Staking",
       "Bitget",
       "Bybit",
-      "MEXC"
+      "OKX"
     ],
     "top_gainers_7d": [
       {
-        "name": "RockawayX",
-        "change_7d": 8.987021832510237
-      },
-      {
         "name": "Steakhouse Financial",
-        "change_7d": 5.729654097148142
+        "change_7d": 4.679895948410589
       },
       {
         "name": "Sentora Curator",
-        "change_7d": 3.586577741960056
+        "change_7d": 3.5533054200857777
       },
       {
-        "name": "Forward Industries SOL",
-        "change_7d": 1.5046173602284227
+        "name": "RockawayX",
+        "change_7d": 2.7317714402324924
       },
       {
         "name": "OnRe",
-        "change_7d": 0.31541561187600564
+        "change_7d": 0.6536917118634733
+      },
+      {
+        "name": "Forward Industries SOL",
+        "change_7d": -0.07224269077897816
       }
     ],
     "top_losers_7d": [
       {
         "name": "Marinade Select",
-        "change_7d": -22.007705317830712
-      },
-      {
-        "name": "Bybit Staked SOL",
-        "change_7d": -9.332995841539628
+        "change_7d": -23.020772530999864
       },
       {
         "name": "Sanctum Infinity",
-        "change_7d": -8.656791061939032
+        "change_7d": -10.50964436079201
       },
       {
-        "name": "Meteora DLMM",
-        "change_7d": -8.149403107849238
+        "name": "Marinade Native",
+        "change_7d": -9.663544979757148
       },
       {
-        "name": "Jito Liquid Staking",
-        "change_7d": -7.595393457914938
+        "name": "Jupiter Lend",
+        "change_7d": -9.579934773589173
+      },
+      {
+        "name": "Bybit Staked SOL",
+        "change_7d": -9.377265589884118
       }
     ]
   }
