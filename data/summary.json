@@ -1,91 +1,91 @@
 {
-  "generated_at": "2026-11-10T14:33:29Z",
+  "generated_at": "2026-11-11T13:47:44Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 4988532815.0,
-    "rank": 4,
+    "current": 5044908523.0,
+    "rank": 3,
     "change_pct": {
-      "30": -19.04873248544011,
-      "90": 3.1912157492929367,
-      "365": -51.781954757797656
+      "30": -18.68555211882679,
+      "90": 5.226216106923845,
+      "365": -51.557050202861134
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 14752771471.57,
+    "current": 14700272601.43,
     "change_pct": {
-      "30": -8.668972275709343,
-      "90": -6.823049374980866,
-      "365": 5.966660038712018
+      "30": -8.485255210940725,
+      "90": -6.360597269887664,
+      "365": 8.710572554458325
     },
     "ath": 16807875175.0
   },
   "sol": {
-    "price": 83.54,
-    "market_cap": 49403889454,
+    "price": 84.24,
+    "market_cap": 49818259875,
     "change_pct": {
-      "24h": -3.80909,
-      "7d": -9.4383,
-      "30d": -23.0476,
-      "1y": -49.9757
+      "24h": -0.04366,
+      "7d": -10.2955,
+      "30d": -24.3648,
+      "1y": -48.6804
     }
   },
   "protocols": {
-    "count_on_solana": 475,
+    "count_on_solana": 476,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
+      "Jupiter Lend",
       "Raydium AMM",
       "Binance Staked SOL",
-      "Jupiter Lend",
-      "Jito Liquid Staking",
       "Bitget",
+      "Jito Liquid Staking",
       "Bybit",
       "MEXC"
     ],
     "top_gainers_7d": [
       {
-        "name": "Huma",
-        "change_7d": 9.024173057619038
-      },
-      {
-        "name": "Steakhouse Financial",
-        "change_7d": 4.551634295427263
-      },
-      {
         "name": "Sentora Curator",
-        "change_7d": 3.8646261760386693
+        "change_7d": 2.8077827497683217
       },
       {
         "name": "RockawayX",
-        "change_7d": 3.7145663108263136
+        "change_7d": 1.695275643989234
+      },
+      {
+        "name": "Huma",
+        "change_7d": 1.4546096886236484
       },
       {
         "name": "Gate",
-        "change_7d": 3.30310300272221
+        "change_7d": 1.2464891499466688
+      },
+      {
+        "name": "Steakhouse Financial",
+        "change_7d": 1.119537374441279
       }
     ],
     "top_losers_7d": [
       {
-        "name": "Marinade Select",
-        "change_7d": -23.90921962822648
+        "name": "Marinade Native",
+        "change_7d": -14.507579910956963
       },
       {
         "name": "PumpSwap",
-        "change_7d": -12.928681064387831
+        "change_7d": -14.402394836746439
+      },
+      {
+        "name": "Bybit Staked SOL",
+        "change_7d": -12.219625399940796
       },
       {
         "name": "Sanctum Infinity",
-        "change_7d": -11.279696351550413
+        "change_7d": -11.92525351234724
       },
       {
-        "name": "Jupiter Lend",
-        "change_7d": -10.91930937718017
-      },
-      {
-        "name": "Marinade Native",
-        "change_7d": -10.325335997960266
+        "name": "MEXC",
+        "change_7d": -11.075784787390745
       }
     ]
   }
