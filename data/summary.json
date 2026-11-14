@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-13T14:12:33Z",
+  "generated_at": "2026-11-14T13:11:36Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 4974516035.0,
+    "current": 4811007468.0,
     "rank": 3,
     "change_pct": {
-      "30": -17.077928187107194,
-      "90": 3.898921589188436,
-      "365": -49.570787682673426
+      "30": -18.722844734915267,
+      "90": 0.6438080478500631,
+      "365": -49.16364491286844
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 14294383132.41,
+    "current": 14140923796.39,
     "change_pct": {
-      "30": -6.934288659703884,
-      "90": -3.7305039824419532,
-      "365": 7.308754901572019
+      "30": -6.355828800998243,
+      "90": -4.712641109267138,
+      "365": 7.98595664511944
     },
     "ath": 16274970798.0
   },
   "sol": {
-    "price": 81.39,
-    "market_cap": 48122123909,
+    "price": 75.42,
+    "market_cap": 44606316067,
     "change_pct": {
-      "24h": 0.44223,
-      "7d": -9.5765,
-      "30d": -22.6869,
-      "1y": -47.8726
+      "24h": -6.48815,
+      "7d": -15.9682,
+      "30d": -26.0149,
+      "1y": -46.1477
     }
   },
   "protocols": {
@@ -37,8 +37,8 @@
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Jupiter Lend",
-      "Raydium AMM",
       "Bitget",
+      "Raydium AMM",
       "Binance Staked SOL",
       "Jito Liquid Staking",
       "Bybit",
@@ -46,46 +46,46 @@
     ],
     "top_gainers_7d": [
       {
-        "name": "Sentora Curator",
-        "change_7d": 2.422293698628522
+        "name": "Forward Industries SOL",
+        "change_7d": 8.02243228847523
       },
       {
-        "name": "OnRe",
-        "change_7d": 0.12560496224915596
+        "name": "Huma",
+        "change_7d": 6.629758679926596
+      },
+      {
+        "name": "Sentora Curator",
+        "change_7d": 2.1806153065113847
+      },
+      {
+        "name": "Jupiter Lend",
+        "change_7d": 1.0854130973550866
       },
       {
         "name": "Solstice",
-        "change_7d": 0.0315997975265816
-      },
-      {
-        "name": "Steakhouse Financial",
-        "change_7d": -0.07479850853738412
-      },
-      {
-        "name": "Kamino Lend",
-        "change_7d": -1.2573751747779625
+        "change_7d": -0.05116498669156044
       }
     ],
     "top_losers_7d": [
       {
         "name": "Marinade Native",
-        "change_7d": -20.202949443118513
+        "change_7d": -26.35246255533201
       },
       {
-        "name": "MEXC",
-        "change_7d": -14.068926720656009
-      },
-      {
-        "name": "PumpSwap",
-        "change_7d": -13.797261486195552
+        "name": "Marinade Select",
+        "change_7d": -23.391162048456792
       },
       {
         "name": "Bybit Staked SOL",
-        "change_7d": -13.663804547194559
+        "change_7d": -22.453897294406048
       },
       {
-        "name": "Bitstamp",
-        "change_7d": -12.885059896232463
+        "name": "Binance Staked SOL",
+        "change_7d": -18.732295457784673
+      },
+      {
+        "name": "PumpSwap",
+        "change_7d": -17.200770087620498
       }
     ]
   }
