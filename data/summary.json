@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-19T15:27:11Z",
+  "generated_at": "2026-11-20T15:03:53Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 4768602651.0,
+    "current": 4645488641.0,
     "rank": 3,
     "change_pct": {
-      "30": -18.225722720518483,
-      "90": -10.037272156595431,
-      "365": -49.251398689542114
+      "30": -21.92072285559074,
+      "90": -15.836556663856898,
+      "365": -49.30140149647262
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 12970471093.03,
+    "current": 13371898557.15,
     "change_pct": {
-      "30": -13.293028799664503,
-      "90": -15.382516066316473,
-      "365": -1.0363123395575722
+      "30": -11.166473157860061,
+      "90": -11.849984336067699,
+      "365": 3.328990798968374
     },
     "ath": 16283570129.0
   },
   "sol": {
-    "price": 74.61,
-    "market_cap": 44188696277,
+    "price": 70.84,
+    "market_cap": 41936678574,
     "change_pct": {
-      "24h": 1.16539,
-      "7d": -8.0598,
-      "30d": -28.8107,
-      "1y": -45.3456
+      "24h": -5.8722,
+      "7d": -12.9624,
+      "30d": -33.5556,
+      "1y": -49.7014
     }
   },
   "protocols": {
@@ -37,8 +37,8 @@
       "Sanctum Validator LSTs",
       "Kamino Lend",
       "Jupiter Lend",
-      "Raydium AMM",
       "Bitget",
+      "Raydium AMM",
       "Binance Staked SOL",
       "Jito Liquid Staking",
       "Bybit",
@@ -47,45 +47,45 @@
     "top_gainers_7d": [
       {
         "name": "Forward Industries SOL",
-        "change_7d": 15.049133261672026
+        "change_7d": 8.608616065364288
       },
       {
-        "name": "Unit",
-        "change_7d": 4.804765324829248
-      },
-      {
-        "name": "Jupiter Lend",
-        "change_7d": 2.448766336794094
-      },
-      {
-        "name": "Kamino Lend",
-        "change_7d": 0.7295369532806433
+        "name": "Huma",
+        "change_7d": 4.92250982398204
       },
       {
         "name": "OKX",
-        "change_7d": 0.04611824759324179
+        "change_7d": 0.6965669444582545
+      },
+      {
+        "name": "Solstice",
+        "change_7d": 0.016307393981279006
+      },
+      {
+        "name": "Jupiter Lend",
+        "change_7d": -0.11014866649425414
       }
     ],
     "top_losers_7d": [
       {
         "name": "Backpack",
-        "change_7d": -39.081649371137274
+        "change_7d": -39.222875070875176
       },
       {
         "name": "Marinade Native",
-        "change_7d": -24.666640363985863
+        "change_7d": -24.79356707320703
       },
       {
         "name": "Bybit Staked SOL",
-        "change_7d": -20.8843415232472
+        "change_7d": -24.76864302637844
       },
       {
         "name": "Loopscale Lending",
-        "change_7d": -18.86603413936811
+        "change_7d": -20.821270391930696
       },
       {
         "name": "Marinade Select",
-        "change_7d": -17.416986329639585
+        "change_7d": -19.846535922184316
       }
     ]
   }
