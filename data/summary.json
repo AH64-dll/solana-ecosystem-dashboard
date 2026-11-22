@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-21T14:24:44Z",
+  "generated_at": "2026-11-22T14:17:41Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 4534222379.0,
-    "rank": 2,
+    "current": 4616594850.0,
+    "rank": 3,
     "change_pct": {
-      "30": -23.95121739581631,
-      "90": -17.937388691775922,
-      "365": -49.27777223345863
+      "30": -21.02831587016692,
+      "90": -16.50173788154861,
+      "365": -47.26525981122588
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 13178106125.74,
+    "current": 13283567105.58,
     "change_pct": {
-      "30": -13.281825857686519,
-      "90": -13.226836290896332,
-      "365": 0.86879659013919
+      "30": -11.423861390787085,
+      "90": -12.931478914780154,
+      "365": 1.3562999639965327
     },
     "ath": 16283570129.0
   },
   "sol": {
-    "price": 70.65,
-    "market_cap": 41817244153,
+    "price": 70.26,
+    "market_cap": 41596929914,
     "change_pct": {
-      "24h": -1.12996,
-      "7d": -6.4845,
-      "30d": -32.2602,
-      "1y": -44.036
+      "24h": -0.20324,
+      "7d": -3.8387,
+      "30d": -32.9263,
+      "1y": -44.2929
     }
   },
   "protocols": {
-    "count_on_solana": 476,
+    "count_on_solana": 477,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
@@ -39,53 +39,53 @@
       "Jupiter Lend",
       "Bitget",
       "Raydium AMM",
+      "Bybit",
       "Binance Staked SOL",
       "Jito Liquid Staking",
-      "Bybit",
       "OKX"
     ],
     "top_gainers_7d": [
       {
-        "name": "Solstice",
-        "change_7d": 0.03048312958343047
+        "name": "RockawayX",
+        "change_7d": 8.639501479884927
+      },
+      {
+        "name": "Bybit",
+        "change_7d": 8.627665948500422
       },
       {
         "name": "Jupiter Lend",
-        "change_7d": -0.05554864529675285
+        "change_7d": 2.80938429374271
       },
       {
         "name": "OKX",
-        "change_7d": -0.12518241513657813
-      },
-      {
-        "name": "KuCoin",
-        "change_7d": -1.4822665430345978
+        "change_7d": 2.5793667355250562
       },
       {
         "name": "Kamino Lend",
-        "change_7d": -2.832799826356762
+        "change_7d": 1.0301880724410637
       }
     ],
     "top_losers_7d": [
       {
         "name": "Backpack",
-        "change_7d": -38.99940296867709
+        "change_7d": -37.261583849728595
       },
       {
         "name": "Loopscale Lending",
-        "change_7d": -21.713881394047263
-      },
-      {
-        "name": "Marinade Native",
-        "change_7d": -20.707807742489976
+        "change_7d": -23.264511036697
       },
       {
         "name": "Bybit Staked SOL",
-        "change_7d": -18.775746311181322
+        "change_7d": -15.666287814573607
       },
       {
-        "name": "Helius Staked SOL",
-        "change_7d": -14.504775128018721
+        "name": "Meteora DLMM",
+        "change_7d": -9.796338803727636
+      },
+      {
+        "name": "MEXC",
+        "change_7d": -8.85519353880106
       }
     ]
   }
