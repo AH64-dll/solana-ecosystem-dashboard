@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-25T16:56:52Z",
+  "generated_at": "2026-11-26T16:36:04Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 4414051025.0,
+    "current": 4587129497.0,
     "rank": 3,
     "change_pct": {
-      "30": -22.407998150017118,
-      "90": -23.1135512909456,
-      "365": -51.08189542032644
+      "30": -18.80675479382641,
+      "90": -23.282099103991975,
+      "365": -49.06744261286169
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 13434881901.68,
+    "current": 13253125063.92,
     "change_pct": {
-      "30": -9.851967353902921,
-      "90": -10.54931974385144,
-      "365": 1.4754801885403948
+      "30": -10.480772797907049,
+      "90": -12.312642328357922,
+      "365": -1.0413104296724454
     },
     "ath": 16283570129.0
   },
   "sol": {
-    "price": 67.62,
-    "market_cap": 40038335959,
+    "price": 70.62,
+    "market_cap": 41818975879,
     "change_pct": {
-      "24h": -2.11558,
-      "7d": -8.5735,
-      "30d": -33.5695,
-      "1y": -49.5269
+      "24h": 4.35264,
+      "7d": -5.1674,
+      "30d": -29.4321,
+      "1y": -48.0155
     }
   },
   "protocols": {
-    "count_on_solana": 478,
+    "count_on_solana": 479,
     "top10_names": [
       "Binance CEX",
       "Sanctum Validator LSTs",
@@ -39,53 +39,53 @@
       "Jupiter Lend",
       "Bitget",
       "Raydium AMM",
-      "Binance Staked SOL",
       "Bybit",
+      "Binance Staked SOL",
       "Jito Liquid Staking",
       "OKX"
     ],
     "top_gainers_7d": [
       {
         "name": "Huma",
-        "change_7d": 1.8710178136737596
+        "change_7d": 12.534497175329307
       },
       {
-        "name": "Solstice",
-        "change_7d": -0.02124480983316346
-      },
-      {
-        "name": "Sentora Curator",
-        "change_7d": -0.8646506119520723
+        "name": "KuCoin",
+        "change_7d": 11.92190925707935
       },
       {
         "name": "Bitget",
-        "change_7d": -1.0848946802437212
+        "change_7d": 4.269046901686096
       },
       {
-        "name": "OnRe",
-        "change_7d": -1.255614898225204
+        "name": "RockawayX",
+        "change_7d": 0.2351704659650835
+      },
+      {
+        "name": "Sentora Curator",
+        "change_7d": 0.03993654614338027
       }
     ],
     "top_losers_7d": [
       {
         "name": "Drift Staked SOL",
-        "change_7d": -20.768505874664
+        "change_7d": -17.74682745685429
       },
       {
         "name": "Bybit Staked SOL",
-        "change_7d": -17.924882471962107
-      },
-      {
-        "name": "Marinade Native",
-        "change_7d": -15.448373943615081
-      },
-      {
-        "name": "Sanctum Validator LSTs",
-        "change_7d": -14.501431501429991
+        "change_7d": -13.258507992128571
       },
       {
         "name": "Loopscale Lending",
-        "change_7d": -14.449865037102967
+        "change_7d": -12.7027825563855
+      },
+      {
+        "name": "MEXC",
+        "change_7d": -11.992053112135622
+      },
+      {
+        "name": "Marinade Native",
+        "change_7d": -10.687099929252426
       }
     ]
   }
