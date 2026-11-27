@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-26T16:36:04Z",
+  "generated_at": "2026-11-27T16:21:33Z",
   "stale_datasets": [],
   "tvl": {
-    "current": 4587129497.0,
+    "current": 4616248485.0,
     "rank": 3,
     "change_pct": {
-      "30": -18.80675479382641,
-      "90": -23.282099103991975,
-      "365": -49.06744261286169
+      "30": -18.917705890230575,
+      "90": -20.906144868618863,
+      "365": -49.762523083597685
     },
     "ath": 13186533168.0
   },
   "stablecoins": {
-    "current": 13253125063.92,
+    "current": 12607974345.69,
     "change_pct": {
-      "30": -10.480772797907049,
-      "90": -12.312642328357922,
-      "365": -1.0413104296724454
+      "30": -15.014013582099722,
+      "90": -16.050074215570863,
+      "365": -9.313032290539056
     },
     "ath": 16283570129.0
   },
   "sol": {
-    "price": 70.62,
-    "market_cap": 41818975879,
+    "price": 72.0,
+    "market_cap": 42639027031,
     "change_pct": {
-      "24h": 4.35264,
-      "7d": -5.1674,
-      "30d": -29.4321,
-      "1y": -48.0155
+      "24h": 1.47351,
+      "7d": 1.5851,
+      "30d": -28.4994,
+      "1y": -48.9937
     }
   },
   "protocols": {
@@ -36,56 +36,56 @@
       "Binance CEX",
       "Sanctum Validator LSTs",
       "Kamino Lend",
-      "Jupiter Lend",
       "Bitget",
+      "Jupiter Lend",
       "Raydium AMM",
-      "Bybit",
       "Binance Staked SOL",
+      "Bybit",
       "Jito Liquid Staking",
       "OKX"
     ],
     "top_gainers_7d": [
       {
-        "name": "Huma",
-        "change_7d": 12.534497175329307
-      },
-      {
         "name": "KuCoin",
-        "change_7d": 11.92190925707935
+        "change_7d": 16.165560009257845
       },
       {
         "name": "Bitget",
-        "change_7d": 4.269046901686096
+        "change_7d": 8.12775937705932
       },
       {
-        "name": "RockawayX",
-        "change_7d": 0.2351704659650835
+        "name": "Phantom SOL",
+        "change_7d": 4.969370500838366
       },
       {
-        "name": "Sentora Curator",
-        "change_7d": 0.03993654614338027
+        "name": "Jupiter Staked SOL",
+        "change_7d": 4.202906166751603
+      },
+      {
+        "name": "Jito Liquid Staking",
+        "change_7d": 3.2031445342876737
       }
     ],
     "top_losers_7d": [
       {
-        "name": "Drift Staked SOL",
-        "change_7d": -17.74682745685429
+        "name": "MEXC",
+        "change_7d": -9.770864541112928
       },
       {
-        "name": "Bybit Staked SOL",
-        "change_7d": -13.258507992128571
+        "name": "Steakhouse Financial",
+        "change_7d": -9.348018723380463
+      },
+      {
+        "name": "Drift Staked SOL",
+        "change_7d": -9.10382630280587
       },
       {
         "name": "Loopscale Lending",
-        "change_7d": -12.7027825563855
+        "change_7d": -8.370282424307717
       },
       {
-        "name": "MEXC",
-        "change_7d": -11.992053112135622
-      },
-      {
-        "name": "Marinade Native",
-        "change_7d": -10.687099929252426
+        "name": "Orca DEX",
+        "change_7d": -6.626096632256591
       }
     ]
   }
